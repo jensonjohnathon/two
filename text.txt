@@ -5,3 +5,7 @@ Function{
 Function{
 	BadStuff
 }
+
+Function{
+	GoodStuff
+}
