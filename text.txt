@@ -1,3 +1,7 @@
 Function{
 	Stuff
 }
+
+Function{
+	BadStuff
+}
