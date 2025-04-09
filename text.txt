@@ -1,3 +1,14 @@
 Function{
 	Stuff
 }
+    HEAD
+-------
+
+Function{
+	BadStuff
+}
+
+Function{
+	GoodStuff
+}
+  8f632e5 (good commit)
